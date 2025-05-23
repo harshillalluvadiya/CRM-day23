@@ -25,7 +25,7 @@
                         class="w-full bg-gray-800 border border-gray-700 rounded-lg p-3 text-gray-100 focus:outline-none focus:border-blue-500 transition"
                         required
                         placeholder="Enter brand name"
-                    >
+                    />
                 </div>
                 <div class="mb-6">
                     <label class="block text-gray-200 font-semibold mb-2">Description</label>

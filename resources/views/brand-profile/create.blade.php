@@ -39,7 +39,7 @@
                 <!-- Friendly Business Name -->
                 <div class="mb-4">
                     <label class="block text-white mb-2">Friendly Business Name</label>
-                    <input type="text" name="friendly_name" class="w-full px-4 py-2 bg-white text-black rounded-lg focus:outline-none" required>
+                    <input type="text" name="name" class="w-full px-4 py-2 bg-white text-black rounded-lg focus:outline-none" required>
                 </div>
 
                 <!-- Legal Business Name -->
